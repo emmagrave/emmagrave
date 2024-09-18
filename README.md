@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 -->
 
 ## 📫 Contact :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/emma-grave-
-8100752a2/)
+- [LinkedIn](https://linkedin.com/in/emma-grave-8100752a2/)
 
