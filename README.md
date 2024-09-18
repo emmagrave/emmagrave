@@ -1,5 +1,6 @@
-## Hi there 👋
+# Salut, je suis Emma 👋
 
+Je suis actuellement étudiante en BUT Informatique.
 <!--
 **emmagrave/emmagrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📫 Contact :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/emma-grave-
+8100752a2/)
+
