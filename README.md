@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 ## 📫 Contact :
-- [LinkedIn](https://linkedin.com/in/emma-grave-8100752a2/)
+- [LinkedIn](https://www.linkedin.com/in/emma-grave/)
 
