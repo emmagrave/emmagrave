@@ -1,6 +1,6 @@
 # Salut, je suis Emma 👋
 
-Je suis actuellement étudiante en BUT Informatique.
+Je suis actuellement étudiante en deuxième année de BUT Informatique.
 <!--
 **emmagrave/emmagrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌟 À propos de moi  
+   - 💻 Actuellement en 2ᵉ année de BUT Informatique  
+   - 📅 À la recherche d’une alternance pour janvier 2025  
+   - 🎯 Intérêts : Développement Web, Programmation
 
 ## 📫 Contact :
 - [LinkedIn](https://www.linkedin.com/in/emma-grave/)
