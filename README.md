@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 ## 🌟 À propos de moi  
    - 💻 Actuellement en 2ᵉ année de BUT Informatique  
-   - 📅 À la recherche d’une alternance pour janvier 2025  
    - 🎯 Intérêts : Développement Web, Programmation
 
 ## 📫 Contact :
+- [Portfolio](https://emmagrave.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/emma-grave/)
+
 
