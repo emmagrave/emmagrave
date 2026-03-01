@@ -1,6 +1,6 @@
 # Salut, je suis Emma 👋
 
-🎓 Étudiante en 2ᵉ année de BUT Informatique en alternance  
+🎓 Étudiante en 3ᵉ année de BUT Informatique en alternance  
 💼 Actuellement chez [Adexos](https://www.adexos.fr/), une agence web spécialisée en réalisation et gestion de site e-commerce
 
 ---
